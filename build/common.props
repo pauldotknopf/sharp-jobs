@@ -1,0 +1,11 @@
+<Project>
+    <Import Project="version.props" />
+    <PropertyGroup>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Authors>pauldotknopf</Authors>
+        <PackageDescription>A very simple solution to running persisted jobs.</PackageDescription>
+        <Summary>A very simple solution to running persisted jobs.</Summary>
+        <RepositoryUrl>https://github.com/pauldotknopf/sharp-jobs</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/pauldotknopf/sharp-jobs</PackageProjectUrl>
+    </PropertyGroup>
+</Project>
