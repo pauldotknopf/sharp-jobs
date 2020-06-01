@@ -241,9 +241,7 @@ namespace SharpJobs.Impl
         enum JobStatus
         {
             Queued,
-            Processing,
-            Succeeded,
-            Failed
+            Processing
         }
     }
 }
